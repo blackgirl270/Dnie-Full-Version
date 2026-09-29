@@ -234,4 +234,4 @@ This repository serves as the official landing page for DNIe. The software is di
 **Get the most recent version of DNIe today!**
 
 ---
-**Last updated:** 2026-09-29 13:31:03 UTC
+**Last updated:** 2026-09-29 18:58:31 UTC
